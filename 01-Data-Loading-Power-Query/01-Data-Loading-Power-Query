@@ -1,0 +1,31 @@
+# Day 1: Data Loading & Power Query Basics
+
+## Topics Practiced
+
+- Importing data into Power BI using Text/CSV
+- Opening Power Query Editor
+- Checking column names
+- Checking and changing data types
+- Renaming columns
+- Removing unnecessary columns
+- Removing duplicate rows
+- Checking for blank/null values
+- Applying transformations using Close & Apply
+
+## Power BI Workflow
+
+Get Data → Transform Data → Power Query → Clean/Transform Data → Close & Apply
+
+## What I Learned
+
+Power Query is used in Power BI to clean and transform data before
+loading it into the data model.
+
+I practiced basic data preparation tasks such as changing data types,
+renaming columns, removing unnecessary columns, removing duplicates,
+and checking missing values.
+
+## Tools Used
+
+- Power BI Desktop
+- Power Query
